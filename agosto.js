@@ -1,0 +1,1 @@
+console.log("si el estudiante no usa git no gana el semestre y se jodio")
